@@ -6,6 +6,7 @@ How to run the test:
 bundle install
 rails db:migrate
 rails db:test:prepare
+bundle exec rspec
 ```
 
 The soft delete functionality for the Ruby on Rails Item model involves:
