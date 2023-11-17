@@ -12,8 +12,8 @@ The soft delete functionality for the Ruby on Rails Item model involves:
 
 Model Attributes:
 
-*name (string): Represents the item name.
-*deleted_at (datetime): Records soft deletions with a timestamp.
+* name (string): Represents the item name.
+* deleted_at (datetime): Records soft deletions with a timestamp.
 
 Soft Delete Methods:
 
