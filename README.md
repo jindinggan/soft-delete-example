@@ -17,12 +17,12 @@ Model Attributes:
 
 Soft Delete Methods:
 
-*soft_delete: Marks an item as deleted by updating the deleted_at attribute.
-*restore: Restores a soft-deleted item by setting deleted_at to nil.
+* soft_delete: Marks an item as deleted by updating the deleted_at attribute.
+* restore: Restores a soft-deleted item by setting deleted_at to nil.
 
 Default Scope:
 
-*A default scope excludes "deleted" items from standard queries.
+* A default scope excludes "deleted" items from standard queries.
 
 Testing:
 
