@@ -1,6 +1,6 @@
 ## Soft Delete Coding Test
 
-How to run the test:
+How to set up and run the test:
 
 ```bash
 bundle install
