@@ -17,7 +17,7 @@ Model Attributes:
 
 Soft Delete Methods:
 
-* soft_delete: Marks an item as deleted by updating the deleted_at attribute.
+* soft_delete: Marks an item as deleted by updating the deleted_at attribute with current timestamp.
 * restore: Restores a soft-deleted item by setting deleted_at to nil.
 
 Default Scope:
